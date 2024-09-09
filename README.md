@@ -9,7 +9,6 @@
 -   i love to play football and to swim
 -   I’m currently learning AWS cloud
 -   I’m looking to collaborate on Machine Learning Projects.
-- 🤔 I’m looking for IT section jobs.
 - 💬 Ask me about html,css, JAVA, and basics of networking
 ---
 ## 🌐 Connect with me 
