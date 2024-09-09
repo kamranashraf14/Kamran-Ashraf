@@ -8,7 +8,7 @@
 -   project- ford fedebom development 
 -   i love to play football and to swim
 -   I’m currently learning AWS cloud
--   I’m looking to collaborate on Machine Learning Projects.
+-   I’m looking to use my skill that i have
 - 💬 Ask me about html,css, JAVA, and basics of networking
 ---
 ## 🌐 Connect with me 
